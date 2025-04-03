@@ -11,6 +11,10 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        brand_blue: {
+          DEFAULT: '#11263C',
+          900: '#11263CE6'
+        }
       },
     },
   },
