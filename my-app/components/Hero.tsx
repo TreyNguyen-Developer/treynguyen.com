@@ -31,7 +31,7 @@ const Hero = () => {
             Hi, I&apos;m Trey, a Product Designer based in Texas.
           </p>
 
-          <a href='/about'>
+          <a href='#projects'>
             <MagicButton title='Show My Work' icon={<FaLocationArrow />} position='right'/>
           </a>
         </div>
