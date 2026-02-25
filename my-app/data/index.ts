@@ -93,19 +93,7 @@ export const testimonials = [
     quote:
       "Trey was fantastic to work with. He helped us rebuild and redesign our website with a clean, modern look and a smooth user experience. He was flexible, communicative, and readily available for reviews throughout the project. Trey understood our goals from the start, delivered on time, and stayed within budget. We’re extremely happy with the results and will definitely be working with him again.",
     name: "Liam Callahan",
-    title: "Unique Visitors",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    title: "CEO of Unique Visitors",
   },
   {
     quote:
