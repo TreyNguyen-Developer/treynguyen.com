@@ -3,7 +3,7 @@
 // import Experience from "@/components/Experience";
 // import Footer from "@/components/Footer";
 // import Grid from "@/components/Grid";
-// import Hero from "@/components/Hero";
+import Hero from "@/components/Hero";
 // import RecentProjects from "@/components/RecentProjects";
 // import { FloatingNav } from "@/components/ui/FloatingNav";
 // import { navItems } from "@/data";
