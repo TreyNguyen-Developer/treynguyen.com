@@ -26,7 +26,7 @@ const projects=[
  {c:'BayMark Health Services',l:'OBOT',t:'Mahajan Therapeutics',k:'Therapeutics',g:'Healthcare',y:'BayMark',v:2,d:'Website designed for BayMark Health Services.',u:'mahajantherapeutics.com'},
  {c:'BayMark Health Services',l:'OTP',t:'MedMark',k:'Treatment programs',g:'Healthcare',y:'BayMark',v:3,d:'Website designed for BayMark Health Services.',u:'medmark.com'},
  {c:'BayMark Health Services',l:'OTP',t:'BAART Programs',k:'Treatment programs',g:'Healthcare',y:'BayMark',v:0,d:'Website designed for BayMark Health Services.',u:'baartprograms.com'},
- {c:'BayMark Health Services',l:'OTP',t:'HCR Centers',k:'Treatment centers',g:'Healthcare',y:'BayMark',v:1,d:'Website designed for BayMark Health Services.',u:'hcrcenters.com'},
+ {c:'BayMark Health Services',l:'OTP',t:'Health Care Resource Centers',k:'Treatment centers',g:'Healthcare',y:'BayMark',v:1,d:'Website designed for BayMark Health Services.',u:'hcrcenters.com'},
  {c:'BayMark Health Services',l:'RTC',t:'Granite Recovery Centers',k:'Recovery centers',g:'Healthcare',y:'BayMark',v:2,d:'Website designed for BayMark Health Services.',u:'graniterecoverycenters.com'},
  {c:'BayMark Health Services',l:'RTC',t:'Mount Sinai Wellness',k:'Wellness center',g:'Healthcare',y:'BayMark',v:3,d:'Website designed for BayMark Health Services.',u:'mtsinaiwellness.com'},
  {c:'BayMark Health Services',l:'RTC',t:'Liberty Bay Recovery',k:'Recovery center',g:'Healthcare',y:'BayMark',v:0,d:'Website designed for BayMark Health Services.',u:'libertybayrecovery.com'},
@@ -417,7 +417,7 @@ const ORGS={
 const S=(o,n,cat,ind,u)=>({o,n,cat,ind,u});
 const SITES=[
  S('tnd','Hep C Treatment','Patient resource','Healthcare','hepctreatment.org'),
- S('bm','MedMark','OTP','Healthcare','medmark.com'),S('bm','BAART Programs','OTP','Healthcare','baartprograms.com'),S('bm','HCR Centers','OTP','Healthcare','hcrcenters.com'),
+ S('bm','MedMark','OTP','Healthcare','medmark.com'),S('bm','BAART Programs','OTP','Healthcare','baartprograms.com'),S('bm','Health Care Resource Centers','OTP','Healthcare','hcrcenters.com'),
  S('bm','Applegate Recovery','OBOT','Healthcare','applegaterecovery.com'),S('bm','Middlesex Recovery','OBOT','Healthcare','middlesexrecovery.com'),S('bm','Mahajan Therapeutics','OBOT','Healthcare','mahajantherapeutics.com'),
  S('bm','Granite Recovery Centers','RTC','Healthcare','graniterecoverycenters.com'),S('bm','Liberty Bay Recovery','RTC','Healthcare','libertybayrecovery.com'),S('bm','Mount Sinai Wellness','RTC','Healthcare','mtsinaiwellness.com'),S('bm','New Day Recovery','RTC','Healthcare','new-dayrecovery.com'),S('bm','My Hope for Tomorrow','RTC','Healthcare','myhopefortomorrow.com'),S('bm','San Antonio Recovery Center','RTC','Healthcare','sanantoniorecoverycenter.com'),
  S('bm','Special Care Corp','Detox','Healthcare','specialcarecorp.com'),S('bm','BayMark Health Services','Corporate','Healthcare','baymark.com'),
